@@ -10,11 +10,8 @@ The Face Detection System is a Python application that utilizes computer vision 
 ![Face Detected](./Resources/DemoOfProject/2.png)
 ### Stage 3
 ![Login Successful](./Resources/DemoOfProject/3.png)
-<<<<<<< HEAD
 
 
-=======
->>>>>>> 511ed143c5c81e06ba7d0ca078c313660e18cc17
 # Features
 
 - Real-time face detection using OpenCV and face recognition using the face_recognition library.
@@ -32,7 +29,4 @@ The Face Detection System is a Python application that utilizes computer vision 
     - Firebase Admin SDK
     - Firebase Realtime Database
     - Firebase Cloud Storage
-<<<<<<< HEAD
-=======
- 
->>>>>>> 511ed143c5c81e06ba7d0ca078c313660e18cc17
+

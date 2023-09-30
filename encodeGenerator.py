@@ -10,8 +10,8 @@ from firebase_admin import storage
 
 cred = credentials.Certificate("serviceAccountKey.json")
 firebase_admin.initialize_app(cred,{
-    'databaseURL':"https://face-recognition-system-5f72e-default-rtdb.firebaseio.com/",
-    'storageBucket':"face-recognition-system-5f72e.appspot.com"
+    'databaseURL':"https://face-recognition-system/",
+    'storageBucket':"face-recognition-system"
 })
 
 # Import users images

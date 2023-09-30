@@ -1,5 +1,4 @@
 import cv2
-# import dlib
 import face_recognition
 import pickle
 import os
@@ -10,8 +9,8 @@ from firebase_admin import storage
 
 cred = credentials.Certificate("serviceAccountKey.json")
 firebase_admin.initialize_app(cred,{
-    'databaseURL':"https://face-recognition-system-5f72e-default-rtdb.firebaseio.com/",
-    'storageBucket':"face-recognition-system-5f72e.appspot.com"
+    'databaseURL':"https://face-recognition-system.firebaseio.com/",
+    'storageBucket':"face-recognition-system.appspot.com"
 })
 
 # Import users images

@@ -4,8 +4,6 @@
 
 The Face Detection System is a Python application that utilizes computer vision and deep learning techniques to detect faces in real-time video streams and provide additional information about recognized individuals using Firebase as a backend database and storage solution.
 
-Check out this video demo of our project in action:
-[![Video Demo](https://youtu.be/PbU9WuhX1Z4)](https://youtu.be/PbU9WuhX1Z4)
 
 ### Stage 1
 ![To Login Scan your face](./Resources/DemoOfProject/1.png)
@@ -14,6 +12,8 @@ Check out this video demo of our project in action:
 ### Stage 3
 ![Login Successful](./Resources/DemoOfProject/3.png)
 
+Check out this video demo of the project in action:
+[Watch Demo](https://youtu.be/PbU9WuhX1Z4)
 
 # Features
 
